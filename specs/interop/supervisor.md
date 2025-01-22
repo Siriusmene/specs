@@ -4,16 +4,15 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Supervisor](#supervisor)
-  - [Overview](#overview)
-  - [RPC API](#rpc-api)
-    - [`supervisor_checkMessage`](#supervisor_checkmessage)
-      - [Parameters](#parameters)
-      - [Returns](#returns)
-    - [`supervisor_superRootAtTimestamp`](#supervisor_superrootattimestamp)
-      - [Parameters](#parameters-1)
-      - [Returns](#returns-1)
-      - [Description](#description)
+- [Overview](#overview)
+- [RPC API](#rpc-api)
+  - [`supervisor_checkMessage`](#supervisor_checkmessage)
+    - [Parameters](#parameters)
+    - [Returns](#returns)
+  - [`supervisor_superRootAtTimestamp`](#supervisor_superrootattimestamp)
+    - [Parameters](#parameters-1)
+    - [Returns](#returns-1)
+    - [Description](#description)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
