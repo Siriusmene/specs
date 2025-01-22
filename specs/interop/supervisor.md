@@ -39,7 +39,14 @@ in a block.
 
 #### Returns
 
-- SafetyLevel: [SafetyLevel](./verifier.md#safety) - The safety level of the message.
+- SafetyLevel: [SafetyLevel](./verifier.md#safety) (string) - The safety level of the message.
+  - Oneof:
+    - Invalid: "invalid"
+    - LocalUnsafe: "unsafe"
+    - CrossUnsafe: "cross-unsafe"
+    - LocalSafe: "local-safe"
+    - CrossSafe: "safe"
+    - Finalized: "finalized"
 
 ### `supervisor_superRootAtTimestamp`
 
